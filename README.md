@@ -1,3 +1,2 @@
 # RizalLoveStory
-# Run from this link
-# https://prima20.github.io/RizalLoveStory/
+# Run from this link <a href="https://prima20.github.io/RizalLoveStory/">here</a>
